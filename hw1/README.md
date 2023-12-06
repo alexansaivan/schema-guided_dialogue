@@ -88,7 +88,7 @@ The Schema-Guided Dialogue training set contains 16142 multi-turn dialogues. The
 
 ## Impressions on the Data
 
-The dataset appears to be generated using a dialogue simulation framework and then paraphrased by crowd-workers to enhance naturalness. Conversations cover various domains, both single-domain and multi-domain, comprising a sizable set of over 16,000 dialogues with annotations for intents, dialogue states, and system actions.
+The dataset appears to be generated using a dialogue simulation framework and then paraphrased by crowd-workers to enhance naturalness. Conversations cover various domains, both single-domain and multi-domain, comprising a sizable set of over 16000 dialogues with annotations for intents, dialogue states, and system actions.
 
 **Difficulty of Learning:** Learning from this dataset might pose challenges due to diverse dialogue flows, numerous domains, slots, and slot values. However, it serves as a benchmark for tasks such as intent detection, dialogue state tracking, and dialogue act-to-text generation. This contributes to the development of scalable modeling approaches for virtual assistants.
 
